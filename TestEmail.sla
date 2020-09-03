@@ -1,0 +1,58 @@
+{
+    "class_id": "com-snaplogic-snaps-email-smtpaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "TestEmail"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "attachmentPassword": {
+                "fp": "0487e5d03af2d30e02972f3353ab20fe94c8d030f780117974962cdd82e202c5",
+                "key": "account-cloud-managed-52e99318640a9a03d8681d0d-2015-05-02T16:09:59-767256",
+                "sym_iv": "gmHVmrNa+k5VZZVsRaqTew==",
+                "sym_key": "2nnWAchiRkRAJwulsz7Dv3MLVQgcpSa9DUImniaICKZ4nd+2ss/847Bx94emL6YCZ13q2dVDea1jXwJOP3T+hVLMVbLJcGQIdmxDrBltaSyqMGjL42aVBR1FJLJfHkUcfhNNq23M5jNmrOQgkXS6nqpQQkMEOWAmxQ0BuRCpvSPw1qSRl7VVdK9TM/4JDkvIufHxqWt2X8ZHzkunhAYMy00uorM5Uv/7kzPM2TkTU3ddDaRqg/yNJ50vDtwDxbRoC2mTatzC5RnAd6SlSWIxWY30El0gEbMsItf7S8D/PYHHiyrS8N05wVz6WcEM0LzkXkbifl0OwbVZ1W4xbhshiw==",
+                "value": "6fmWZb07/gxE8blIg4jjsA=="
+            },
+            "connectionTimeout": {
+                "value": 60000
+            },
+            "emailId": {
+                "value": null
+            },
+            "mailProperties": {
+                "value": []
+            },
+            "password": {
+                "fp": "0487e5d03af2d30e02972f3353ab20fe94c8d030f780117974962cdd82e202c5",
+                "key": "account-cloud-managed-52e99318640a9a03d8681d0d-2015-05-02T16:09:59-767256",
+                "sym_iv": "ozL4yvvCmpZuTfRXWl54Sg==",
+                "sym_key": "dPN8qDRCq+stx/mmBCubHFhPMh9b+jP4UFeL6+sEUBWkEFPq//mePxxFnHg92GubFR4fcxX1smUGrhYUsCdFOBxgkSIqOM4LhZlLl/j5mDA/Wi2zZU5XnpggzkOhe4EF5RwfN2rzi/rBwbioYozsbVJeuDhdToXqU6PiaYwj6qCxGr2/yrmF/S6wON3qrudSGh1uL3AUeyV/zIKQQY+DK14mVvtKaJQPktREpLTIp2SB/SuwbEo6KGYMBkDUx7HLJaOA5bI5/009cfhXaV+3nlEA4DBVfIMY0mpxdGwCLp2Og/d4xCsk8RQX/nlVwskt5OfBfHJnbNu0tm1FtizxqA==",
+                "value": "L+JHxdmH7FJfIHQYGrqSnQ=="
+            },
+            "port": {
+                "value": "25"
+            },
+            "readTimeout": {
+                "value": 60000
+            },
+            "secureConnection": {
+                "value": "SSL"
+            },
+            "serverDomain": {
+                "value": "smtp.mail.com"
+            },
+            "writeTimeout": {
+                "value": 60000
+            }
+        },
+        "view_serial": 100
+    }
+}

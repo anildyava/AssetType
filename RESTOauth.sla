@@ -1,0 +1,57 @@
+{
+    "class_id": "com-snaplogic-snaps-rest-restoauth2account",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "snaplogic"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "RESTOauth"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "auth_endpoint": {
+                "value": "testing"
+            },
+            "auth_endpoint_config": {
+                "value": []
+            },
+            "authorize": {
+                "value": null
+            },
+            "autoRefreshToken": {
+                "value": false
+            },
+            "client_id": {
+                "value": "test"
+            },
+            "client_secret": {
+                "fp": "0487e5d03af2d30e02972f3353ab20fe94c8d030f780117974962cdd82e202c5",
+                "key": "account-cloud-managed-52e99318640a9a03d8681d0d-2015-05-02T16:09:59-767256",
+                "sym_iv": "iBDIdkbqfIAg9HoPFqFcuA==",
+                "sym_key": "JSX0a4K7BNs9035edtfO4MGIUbLBx6nLNJgybOIAX/qqGUtC1bKVYYTMvcXRxkgWtFeFIf+N300dJBxmAUEtW9oSeNMYnFnX4NEta8jgmG3LiT8znu3qzAE+aXDPcP0gVT7VqY8up2bSUDkS4ReafqL8SuZrpDZWdrka+8aKOmkzZH0gWqmdCW/Ligq5OMSkG9xyHtJ78LmBi+RjyWEcLQzIGwODmSJIwXnmvzrxUEWnOzmSt0T5M7cntfYo7/x+nbR2ys+QXPDI9iKR/EZVo94K/ZboQYmT2Y3y78tnVhe/3MNxHEOt/CZnO/14tJyYj/tW2tgiGnSmsMnDqUjTMg==",
+                "value": "DpHGOU14OtMUdY0d0/K+dQ=="
+            },
+            "grant_type": {
+                "value": "authorization_code"
+            },
+            "headerAuth": {
+                "value": false
+            },
+            "refresh": {
+                "value": null
+            },
+            "token_endpoint": {
+                "value": "testing"
+            },
+            "token_endpoint_config": {
+                "value": []
+            }
+        },
+        "view_serial": 100
+    }
+}
