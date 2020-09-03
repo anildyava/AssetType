@@ -7,7 +7,7 @@
     "property_map": {
         "info": {
             "label": {
-                "value": "RESTOauth"
+                "value": "RESTOauthAccount"
             },
             "notes": {
                 "value": null
