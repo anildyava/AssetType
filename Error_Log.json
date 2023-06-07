@@ -1,0 +1,9 @@
+[
+  {
+    "TimeStamp" : "2023-05-23 22:05",
+    "RunTimeId" : "5e14634016c5ae0665339f38_8f34484e-2ce4-4f2a-aab4-b1f2b81c19dc",
+    "PipelineName" : "Enterprise_Automation_1.1",
+    "HostName" : "guse4-slogi-001",
+    "Reason" : "Snap errors: [{ruuid=5e14634016c5ae0665339f38_fb92f45b-e0ba-4993-9a0e-d934ff2c91f3, reason=Snap errors: [{ruuid=f65ab4b0-f0f9-4849-a705-3b6da8a6ceef, reason=Snap errors: [], label=Add Member, resolution=Fix the child pipeline errors and try again, failure=Pipeline did not complete successfully, snap_fqid=com-snaplogic-snaps-flow-pipeexec_1-main21015}], label=Priceline Jira Ticket, resolution=Fix the child pipeline errors and try again, failure=Pipeline did not complete successfully, snap_fqid=com-snaplogic-snaps-flow-pipeexec_1-main21015}]"
+  }
+]
