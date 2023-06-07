@@ -2,7 +2,7 @@
     "class_id": "com-snaplogic-snap-api-sql-accounts-sqlserverdatabaseaccount",
     "class_version": 3,
     "migration_metadata": {
-        "source_org": "snaplogic"
+        "source_org": "DatCloudSolutionsDev"
     },
     "property_map": {
         "info": {

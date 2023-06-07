@@ -1,0 +1,32 @@
+{
+    "class_id": "com-snaplogic-snaps-binary-binarybasicauthaccount",
+    "class_version": 1,
+    "migration_metadata": {
+        "source_org": "DatCloudSolutionsDev"
+    },
+    "property_map": {
+        "info": {
+            "label": {
+                "value": "test"
+            },
+            "notes": {
+                "value": null
+            }
+        },
+        "settings": {
+            "password": {
+                "expression": false,
+                "fp": "f50eb0b1f7b8a165540a51a0c610eeb1c69b9940105cdde7eab56dce76fae5f7",
+                "key": "account-cloud-managed-60a7635bbe5f757a68e36cf6-2021-05-21T07:38:10-384697+00:00",
+                "sym_iv": "3a83ll8CQ6uDhkLLyRqJ7A==",
+                "sym_key": "ZSjefgvegKGTyRggsZUSCPF6lHdM7zGNfvXWHSbaDUWJtNU9x6vTncRzwXhCquc0IrMYvAqO2Pp6632qO5jfo1EAi57BRR62FgZspxGDvI9xe43tCqTTTgFoBa+Uvo1teOR7kqNsLpDo7yd1yuYHEFt00le9Yepz2lISh9XgiyVeITjaybp3cMBofRHDLzCLSoNIwMWjxWW0s3btTL2e9XSKg9eewoiE+UxGXCAAz5hmEfUW65gYQqnYHF1/yrrIBv9aGGce9F+qRKDcP0JBqT5toBba3SRzxGIsu6dg1uQi9dObExB49UfQhqmnNjSgo/r454JbI8eKPPEoMunFbw==",
+                "value": "fb2cljs8ZN87m21AfrAp8g=="
+            },
+            "username": {
+                "expression": false,
+                "value": "sdsf"
+            }
+        },
+        "view_serial": 100
+    }
+}

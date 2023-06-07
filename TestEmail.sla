@@ -2,7 +2,7 @@
     "class_id": "com-snaplogic-snaps-email-smtpaccount",
     "class_version": 1,
     "migration_metadata": {
-        "source_org": "snaplogic"
+        "source_org": "DatCloudSolutionsDev"
     },
     "property_map": {
         "info": {

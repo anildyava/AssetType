@@ -2,12 +2,12 @@
     "class_id": "com-snaplogic-snaps-rest-restoauth2account",
     "class_version": 1,
     "migration_metadata": {
-        "source_org": "snaplogic"
+        "source_org": "DatCloudSolutionsDev"
     },
     "property_map": {
         "info": {
             "label": {
-                "value": "RESTOauthAcc"
+                "value": "RESTOauth"
             },
             "notes": {
                 "value": null

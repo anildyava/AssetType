@@ -2,7 +2,7 @@
     "class_id": "com-snaplogic-snaps-jdbc-jdbcdatabaseaccount",
     "class_version": 2,
     "migration_metadata": {
-        "source_org": "snaplogic"
+        "source_org": "DatCloudSolutionsDev"
     },
     "property_map": {
         "info": {
