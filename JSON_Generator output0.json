@@ -1,0 +1,18 @@
+[
+  {
+    "client_location": "1",
+    "Client_number": "2"
+  },
+  {
+    "client_location": "",
+    "Client_number": "2"
+  },
+  {
+    "client_location": "1",
+    "Client_number": "N/A"
+  },
+  {
+    "client_location": "4",
+    "Client_number": "5"
+  }
+]
